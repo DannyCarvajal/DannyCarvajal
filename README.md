@@ -11,7 +11,7 @@ I like music and dancing. I love projects related to creativity and entertainmen
 - 🎨 I am really interested in visual design
 - 🎵 I always wake up and go to bed with music
 - 📁 I am technologist in Analysis and development of information systems at [@sena](https://www.sena.edu.co/es-co/Paginas/default.aspx)
-- 📫 Contact me on my LinkedIn [@Oliver]() or send me an email at oliverdanielcarvajal@hotmail.com
+- 📫 Contact me on my LinkedIn [@Oliver](https://www.linkedin.com/in/dannycarvajal1/) or send me an email at oliverdanielcarvajal@hotmail.com
 
 
 
