@@ -7,7 +7,7 @@ I like music and dancing. I love projects related to creativity and entertainmen
 
 -  🧩 I like solving puzzles
 -  🦾I studied in [@Protalentolatam](https://protalento.org)  and I am a scholar of  [@Platzi](https://platzi.com/home)
-- 🌱 I’m currently learning about Javascript, React  and Figma
+- 🌱 I’m currently learning about TypeScript, Tailwind CSS and GraphQL
 - 🎨 I am really interested in visual design
 - 🎵 I always wake up and go to bed with music
 - 📁 I am technologist in Analysis and development of information systems at [@sena](https://www.sena.edu.co/es-co/Paginas/default.aspx)
@@ -29,6 +29,6 @@ I like music and dancing. I love projects related to creativity and entertainmen
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br><br>
-|| Be so happy that when others look at you they become happy too 😉
+
 
 
