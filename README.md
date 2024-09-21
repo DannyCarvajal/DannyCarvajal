@@ -1,19 +1,6 @@
 <h1>Oliver Daniel Carvajal G. 👋🏻</h1>
-<h3 > Front-end Developer ❤</h3>
-<p>I am a Fullstack developer focused on Front-end development. I find exciting the way we can solve problems that will impact the things the final user sees and does.
-
-I like music and dancing. I love projects related to creativity and entertainment. 
-</p>
-
--  🧩 I like solving puzzles
--  🦾I studied in [@Protalentolatam](https://protalento.org)  and I am a scholar of  [@Platzi](https://platzi.com/home)
-- 🌱 I’m currently learning about TypeScript, Tailwind CSS and GraphQL
-- 🎨 I am really interested in visual design
-- 🎵 I always wake up and go to bed with music
-- 📁 I am technologist in Analysis and development of information systems at [@sena](https://www.sena.edu.co/es-co/Paginas/default.aspx)
-- 📫 Contact me on my LinkedIn [@Oliver](https://www.linkedin.com/in/dannycarvajal1/) or send me an email at oliverdanielcarvajal@hotmail.com
-
-
+<h3 > Full-stack Developer ❤</h3>
+<p>I am a Fullstack developer focused on Front-end development. Semi-senior developer at @Aerolab 🇦🇷. Digital agency that crafts projects for multidisplinary enterprises
 
 ### Languages and Tools:
 
